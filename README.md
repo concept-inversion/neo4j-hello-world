@@ -1,6 +1,10 @@
 # neo4j-hello-world
 
-Basic functionality test for neo4j graphical database.
+Basic functionality test for neo4j graphical database using python3.
+
+##Pre-requirement:
+
+1. Install neo4j
 
 ## Others
 
