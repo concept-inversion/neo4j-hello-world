@@ -9,9 +9,12 @@ Neo4j is implemented in Java and accessible from software written in other langu
 
 ## Pre-requirement:
 
-1. Install neo4j:
-  install Neo4j Community Edition:
-  {sudo apt-get install neo4j=1:3.4.1}
+1. Install neo4j on linux:
+
+  Install Neo4j Community Edition:
+  ```python
+  sudo apt-get install neo4j=1:3.4.1
+  ```
 
 ## Others
 
