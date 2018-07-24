@@ -1,3 +1,6 @@
+# igonre config
+config/config.json
+
 .idea
 .vscode
 # Byte-compiled / optimized / DLL files
